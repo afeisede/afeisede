@@ -1,7 +1,7 @@
 # Hi, I'm Hamzat 👋
 
 PhD in Applied Mathematics (ZAB-recognized as German equivalent)  
-Data Analyst skilled in SQL, Power BI, Tableau, and Excel  
+Data Analyst skilled in SQL, Power BI, Tableau, Microsoft Fabrics and Excel  
 
 ## 📊 Projects
 - Sales Dashboard (Excel)
