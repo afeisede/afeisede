@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hamzat 👋
 
-<!--
-**afeisede/afeisede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Applied Mathematics (ZAB-recognized as German equivalent)  
+Data Analyst skilled in SQL, Power BI, Tableau, and Excel  
 
-Here are some ideas to get you started:
+## 📊 Projects
+- Sales Dashboard (SQL + Power BI)
+- Customer Segmentation (Python)
+- Time Series Forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Career Goal
+Seeking Data Analyst roles in Germany or Canada
+
+## 📫 Contact
+Email: afeisede@gmail.com
+LinkedIn: www.linkedin.com/in/hamzatafeisede
