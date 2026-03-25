@@ -1,9 +1,25 @@
 # Hi, I'm Hamzat 👋
 
-PhD in Applied Mathematics (ZAB-recognized as German equivalent)  
-Data Analyst skilled in SQL, Power BI, Tableau, Microsoft Fabrics and Excel  
+PhD-trained Data Analyst with expertise in statistical modeling, data analysis, and data-driven decision-making, holding a PhD in Applied Mathematics.  
 
-## 📊 Projects
+🔍 Interests:
+- Data Science & Machine Learning
+- Business Intelligence & Analytics
+- Scientific Computing
+
+  🛠️ Tools:
+- Python (Pandas, NumPy - learning)
+- SQL
+- Power BI, Tableau
+- Microsoft Fabrics
+- Excel
+
+📌 Currently:
+- Transitioning into Data Scientist roles
+- Building more data science projects
+
+  
+## 📊 Projects Completed
 - Sales Dashboard (Excel)
 - Sales Dashboard (SQL + Power BI)
 - Customer Segmentation (Python)
