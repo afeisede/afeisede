@@ -22,8 +22,10 @@ PhD-trained Data Analyst with expertise in statistical modeling, data analysis, 
 ## 📊 Projects Completed
 - Sales Dashboard (Excel)
 - Sales Dashboard (SQL + Power BI)
-- Customer Segmentation (Python)
-- Time Series Forecasting
+- Customer Segmentation (Python, K-Means Clustering)
+- Sales Forecasting (Python, Time Series Analysis)
+- Customer Churn Prediction (Python, Machine Learning)
+
 
 ## 🎯 Career Goal
 Seeking Data Analyst roles in  the EU (esp Germany) and  Canada
