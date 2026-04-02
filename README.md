@@ -20,11 +20,10 @@ PhD-trained Data Analyst with expertise in statistical modeling, data analysis, 
 
   
 ## 📊 Projects Completed
-- Sales Dashboard (Excel)
-- Sales Dashboard (SQL + Power BI)
-- Customer Segmentation (Python, K-Means Clustering)
-- Sales Forecasting (Python, Time Series Analysis)
 - Customer Churn Prediction (Python, Machine Learning)
+- Sales Forecasting (Python, Time Series Analysis)
+- Customer Segmentation (Python, K-Means Clustering)
+- Sales Dashboard (Power BI)
 
 
 ## 🎯 Career Goal
