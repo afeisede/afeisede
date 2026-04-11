@@ -25,7 +25,7 @@ PhD-trained Data Analyst with expertise in statistical modeling, data analysis, 
 - Customer Segmentation (Python, K-Means Clustering)
 - Sales Dashboard (Power BI)
 - Café Harmony Business Analysis (Excel, Python, Data Analytics)
-- Behavioral & Retention Analytics | SQL
+- Behavioral & Retention Analytics (SQL)
 
 
 ## 🎯 Career Goal
